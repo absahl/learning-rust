@@ -13,5 +13,5 @@ fn fib(n: u32) -> u32 {
 
 fn main() {
     let n = 7;
-    println!("fib({n}) = {}", fib(n));
+    dbg!(fib(n));
 }
