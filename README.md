@@ -13,3 +13,7 @@ Programs and exercises will be added to this repository as I complete each secti
 ## Resource
 
 - [Comprehensive Rust](https://google.github.io/comprehensive-rust/)
+
+## Naming Sequence
+
+For package names, I will be using `snake_case` as I couldn't find any definitive guidelines about it on the web.
